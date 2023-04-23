@@ -1,0 +1,15 @@
+{
+  "names": {
+    "ZED": "165bb9e268ce0096d38e80b5e3e00702317ac5e7c78846b1cc7f4bafad0fc12d"
+  },
+  "relays": {
+    "165bb9e268ce0096d38e80b5e3e00702317ac5e7c78846b1cc7f4bafad0fc12d": [ 
+      "wss://purplepag.es",
+      "wss://relay.damus.io",
+      "wss://relay.snort.social",
+      "wss://nostr.walletofsatoshi.com",
+      "wss://nos.lol",
+      "wss://nostr.azte.co"
+    ]
+  }
+}

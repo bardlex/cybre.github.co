@@ -24,6 +24,7 @@ pre {
   margin: 0;
   filter: blur(0.5px);
   position: relative;
+  text-align: center;
 }
 
 pre::before {

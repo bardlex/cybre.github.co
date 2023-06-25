@@ -1,16 +1,15 @@
 {
   "names": {
-    "ZED": "165bb9e268ce0096d38e80b5e3e00702317ac5e7c78846b1cc7f4bafad0fc12d"
+    "alex": "84c7415a4e11e1bb0c6ab88d658547daed63c6b6350d37c18d05fe918c18bbe6"
   },
   "relays": {
-    "165bb9e268ce0096d38e80b5e3e00702317ac5e7c78846b1cc7f4bafad0fc12d": [ 
+    "84c7415a4e11e1bb0c6ab88d658547daed63c6b6350d37c18d05fe918c18bbe6": [ 
       "wss://purplepag.es",
       "wss://relay.damus.io",
       "wss://relay.snort.social",
-      "wss://nostr.bitcoiner.social",
-      "wss://nostr.walletofsatoshi.com",
+      "wss://eden.nostr.land",
       "wss://nos.lol",
-      "wss://nostr.azte.co"
+      "wss://nostr.mutinywallet.com"
     ]
   }
 }

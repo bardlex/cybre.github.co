@@ -1,15 +1,14 @@
 {
   "names": {
-    "alex": "84c7415a4e11e1bb0c6ab88d658547daed63c6b6350d37c18d05fe918c18bbe6"
+    "bard": "0e4551dbf9c930eaf78cfd0428c1e9ebc1a5928905968a01aa6f3ef6a482cd65"
   },
   "relays": {
-    "84c7415a4e11e1bb0c6ab88d658547daed63c6b6350d37c18d05fe918c18bbe6": [ 
+    "0e4551dbf9c930eaf78cfd0428c1e9ebc1a5928905968a01aa6f3ef6a482cd65": [
       "wss://purplepag.es",
       "wss://relay.damus.io",
-      "wss://relay.snort.social",
-      "wss://eden.nostr.land",
-      "wss://nos.lol",
-      "wss://nostr.mutinywallet.com"
+      "wss://relay.primal.net",
+      "wss://relay.orange-crush.com",
+      "wss://relay.snort.social"
     ]
   }
 }
